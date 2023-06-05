@@ -1,5 +1,5 @@
 ```python
-class mciem:
+class hygical:
     def __init__():        
         age = 15
         what = "Cat"
