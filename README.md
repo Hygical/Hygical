@@ -8,7 +8,7 @@ class hygical:
         programing_languages = ["Python", "Lua", "Html", "Batch", "Java"]
         projects = ["..."]
 
-        website = "hygical.github.io"
+        website = "hygical.github.io/website"
         discord = {
             "username": "Hygical#0352",
         }
