@@ -8,8 +8,8 @@ class hygical:
         programing_languages = ["Python", "Lua", "Html", "Batch", "Java"]
         projects = ["..."]
 
-        website = "hygical.github.io/website"
+        website = "coming soon"
         discord = {
-            "username": "Hygical#0352",
+            "username": "Hygical",
         }
 ```
