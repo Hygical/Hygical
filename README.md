@@ -1,7 +1,7 @@
 ```python
 class hygical:
     def __init__():        
-        age = 15
+        age = 16
         what = "Cat"
         languages = ["English", "German", "Turkish"]
 
