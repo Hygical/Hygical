@@ -10,6 +10,6 @@ class hygical:
 
         website = "coming soon"
         discord = {
-            "username": "Hygical",
+            "username": "exxax",
         }
 ```
